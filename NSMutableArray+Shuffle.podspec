@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 #
 
   s.name         = "NSMutableArray+Shuffle"
-  s.version      = "0.1"
+  s.version      = "0.3"
   s.summary      = "A helpful category on NSMutableArray that provides a method to shuffle the array."
   s.homepage     = "https://github.com/duliodenis/NSMutableArray-Shuffle"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.source       = { 
     :git => "https://github.com/duliodenis/NSMutableArray-Shuffle.git", 
-    :tag => "0.2"
+    :tag => "0.3"
   }
 
   s.source_files  = '*.{h,m}'

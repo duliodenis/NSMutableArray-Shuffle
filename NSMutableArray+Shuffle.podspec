@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.source       = { 
     :git => "https://github.com/duliodenis/NSMutableArray-Shuffle.git", 
-    :tag => "0.1"
+    :tag => "0.2"
   }
 
   s.source_files  = '*.{h,m}'

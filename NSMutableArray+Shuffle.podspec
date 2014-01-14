@@ -1,3 +1,5 @@
+Pod::Spec.new do |s|
+
 #
 #  NSMutableArray+Shuffle
 #  A helpful category on NSMutableArray that provides a method to shuffle the array.
@@ -5,7 +7,6 @@
 #  Created by Dulio Denis on 1/14/14.
 #  Copyright (c) 2013 ddApps. All rights reserved.
 #
-Pod::Spec.new do |s|
 
   s.name         = "NSMutableArray+Shuffle"
   s.version      = "0.1"
